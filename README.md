@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChengYueJia
 - 👀 I’m interested in Rust,Java
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning zk related.
 
 <!---
 ChengYueJia/ChengYueJia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
